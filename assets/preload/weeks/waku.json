@@ -1,0 +1,31 @@
+{
+	"storyName": "Bf commits crime for fun!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		237,
+		28,
+		36
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"speed criminal",
+			"wakusonic",
+			[
+				237,
+				28,
+				36
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "waku"
+}
