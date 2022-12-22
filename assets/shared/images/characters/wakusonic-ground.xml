@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wakusonic-ground.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="idle 0" x="0" y="0" width="80" height="80"/>
+  <SubTexture name="idle 1" x="80" y="0" width="80" height="80"/>
+  <SubTexture name="idle 2" x="160" y="0" width="80" height="80"/>
+  <SubTexture name="idle 3" x="240" y="0" width="80" height="80"/>
+  <SubTexture name="idle 4" x="320" y="0" width="80" height="80"/>
+  <SubTexture name="idle 5" x="400" y="0" width="80" height="80"/>
+  <SubTexture name="idle 6" x="0" y="80" width="80" height="80"/>
+  <SubTexture name="idle 7" x="80" y="80" width="80" height="80"/>
+  <SubTexture name="idle 8" x="160" y="80" width="80" height="80"/>
+  <SubTexture name="idle 9" x="240" y="80" width="80" height="80"/>
+  <SubTexture name="idle 10" x="320" y="80" width="80" height="80"/>
+  <SubTexture name="idle 11" x="400" y="0" width="80" height="80"/>
+  <SubTexture name="right 0" x="400" y="80" width="80" height="80"/>
+  <SubTexture name="right 1" x="0" y="160" width="80" height="80"/>
+  <SubTexture name="right 2" x="80" y="160" width="80" height="80"/>
+  <SubTexture name="right 3" x="160" y="160" width="80" height="80"/>
+  <SubTexture name="left 0" x="240" y="160" width="80" height="80"/>
+  <SubTexture name="left 1" x="320" y="160" width="80" height="80"/>
+  <SubTexture name="left 2" x="400" y="160" width="80" height="80"/>
+  <SubTexture name="left 3" x="0" y="240" width="80" height="80"/>
+  <SubTexture name="up 0" x="80" y="240" width="80" height="80"/>
+  <SubTexture name="up 1" x="160" y="240" width="80" height="80"/>
+  <SubTexture name="up 2" x="240" y="240" width="80" height="80"/>
+  <SubTexture name="up 3" x="320" y="240" width="80" height="80"/>
+  <SubTexture name="down 0" x="400" y="240" width="80" height="80"/>
+  <SubTexture name="down 1" x="0" y="320" width="80" height="80"/>
+  <SubTexture name="down 2" x="80" y="320" width="80" height="80"/>
+  <SubTexture name="down 3" x="80" y="320" width="80" height="80"/>
+  <SubTexture name="intro 0" x="160" y="320" width="80" height="80"/>
+  <SubTexture name="intro 1" x="160" y="320" width="80" height="80"/>
+  <SubTexture name="intro 2" x="240" y="320" width="80" height="80"/>
+  <SubTexture name="intro 3" x="240" y="320" width="80" height="80"/>
+  <SubTexture name="intro 4" x="160" y="320" width="80" height="80"/>
+  <SubTexture name="intro 5" x="160" y="320" width="80" height="80"/>
+  <SubTexture name="intro 6" x="240" y="320" width="80" height="80"/>
+  <SubTexture name="intro 7" x="240" y="320" width="80" height="80"/>
+  <SubTexture name="intro 8" x="160" y="320" width="80" height="80"/>
+  <SubTexture name="intro 9" x="160" y="320" width="80" height="80"/>
+  <SubTexture name="intro 10" x="320" y="320" width="80" height="80"/>
+  <SubTexture name="intro 11" x="400" y="320" width="80" height="80"/>
+</TextureAtlas>
